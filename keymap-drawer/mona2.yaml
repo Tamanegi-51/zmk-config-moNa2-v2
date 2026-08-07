@@ -135,7 +135,7 @@ layers:
   - PRINTSCREEN
   - Ctl+TAB
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&mkp MB3'
   - HOME
   - UP ARROW
   - END
@@ -145,8 +145,8 @@ layers:
   - Gui+RIGHT ARROW
   - Ctl+Gui+LEFT ARROW
   - Ctl+Gui+RIGHT ARROW
-  - {t: ▽, type: trans}
   - '&mkp MB5'
+  - '&mkp MB2'
   - Alt+LEFT ARROW
   - UP ARROW
   - AltGr+RIGHT ARROW
@@ -157,8 +157,8 @@ layers:
   - Gui+Sft+RIGHT ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - '&mkp MB4'
+  - '&mkp MB1'
   - LEFT ARROW
   - DOWN ARROW
   - RIGHT ARROW
