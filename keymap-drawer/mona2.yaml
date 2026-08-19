@@ -42,7 +42,7 @@ layers:
   - {t: '&to_layer_0 LANG1', h: '3'}
   - {t: '&to_layer_0 BACKSPACE', h: '1'}
   - {t: ENTER, h: '3'}
-  - PAGE DOWN
+  - DEL
   '1':
   - '1'
   - '2'
@@ -102,8 +102,8 @@ layers:
   - '"'
   - ''''
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - PRINTSCREEN
+  - INSERT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '='
@@ -164,7 +164,7 @@ layers:
   - RIGHT ARROW
   - PAGE UP
   - DEL
-  - {t: ▽, type: trans}
+  - BACKSPACE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
