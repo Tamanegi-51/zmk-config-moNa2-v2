@@ -65,7 +65,7 @@ layers:
   - )
   - /
   - \
-  - {t: ▽, type: trans}
+  - '~'
   - ','
   - .
   - <
@@ -77,9 +77,9 @@ layers:
   - '{'
   - '}'
   - '|'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ESC
+  - TAB
+  - DEL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -130,17 +130,17 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '3':
-  - ESC
+  - END
   - Ctl+Sft+TAB
-  - PRINTSCREEN
   - Ctl+TAB
-  - {t: ▽, type: trans}
+  - Ctl+W
+  - Ctl+T
   - '&mkp MB3'
   - HOME
   - UP ARROW
   - END
   - {type: held}
-  - '~'
+  - HOME
   - Gui+LEFT ARROW
   - Gui+RIGHT ARROW
   - Ctl+Gui+LEFT ARROW
@@ -151,23 +151,23 @@ layers:
   - UP ARROW
   - '&mkp MB5'
   - HOME
-  - TAB
-  - LEFT SHIFT
+  - PG UP
+  - '&mkp MB5'
   - Gui+Sft+LEFT ARROW
   - Gui+Sft+RIGHT ARROW
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - PSCRN
   - '&mkp MB4'
   - '&mkp MB1'
   - LEFT ARROW
   - DOWN ARROW
   - RIGHT ARROW
   - PAGE UP
-  - DEL
-  - BACKSPACE
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - PAGE DOWN
+  - '&mkp MB4'
+  - '&mkp MB2'
+  - '&mkp MB1'
+  - '&mkp MB3'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
