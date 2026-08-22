@@ -147,9 +147,9 @@ layers:
   - Ctl+Gui+RIGHT ARROW
   - '&mkp MB5'
   - '&mkp MB2'
-  - Alt+LEFT ARROW
+  - '&mkp MB4'
   - UP ARROW
-  - AltGr+RIGHT ARROW
+  - '&mkp MB5'
   - HOME
   - TAB
   - LEFT SHIFT
